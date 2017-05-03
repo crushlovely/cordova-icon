@@ -61,18 +61,18 @@ var getPlatforms = function (projectName) {
     iconsPath : 'platforms/android/res/',
     icons : [
       { name : 'drawable/icon.png',       size : 1280 },
-      { name : 'drawable-hdpi/icon.png',  size : 1280 },
-      { name : 'drawable-ldpi/icon.png',  size : 1280 },
-      { name : 'drawable-mdpi/icon.png',  size : 1280 },
-      { name : 'drawable-xhdpi/icon.png', size : 1280 },
-      { name : 'drawable-xxhdpi/icon.png', size : 1280 },
-      { name : 'drawable-xxxhdpi/icon.png', size : 1280 },
-      { name : 'mipmap-hdpi/icon.png',  size : 1280 },
-      { name : 'mipmap-ldpi/icon.png',  size : 1280 },
-      { name : 'mipmap-mdpi/icon.png',  size : 1280 },
-      { name : 'mipmap-xhdpi/icon.png', size : 1280 },
-      { name : 'mipmap-xxhdpi/icon.png', size : 1280 },
-      { name : 'mipmap-xxxhdpi/icon.png', size : 1280 }
+      { name : 'drawable-hdpi/icon.png',  size : 720 },
+      { name : 'drawable-ldpi/icon.png',  size : 360 },
+      { name : 'drawable-mdpi/icon.png',  size : 480 },
+      { name : 'drawable-xhdpi/icon.png', size : 960 },
+      { name : 'drawable-xxhdpi/icon.png', size : 1440 },
+      { name : 'drawable-xxxhdpi/icon.png', size : 1920 },
+      { name : 'mipmap-hdpi/icon.png',  size : 720 },
+      { name : 'mipmap-ldpi/icon.png',  size : 360 },
+      { name : 'mipmap-mdpi/icon.png',  size : 480 },
+      { name : 'mipmap-xhdpi/icon.png', size : 960 },
+      { name : 'mipmap-xxhdpi/icon.png', size : 1440 },
+      { name : 'mipmap-xxxhdpi/icon.png', size : 1920 }
     ]
   });
   platforms.push({
